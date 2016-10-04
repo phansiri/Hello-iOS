@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C623E5E1DA36A32007825D2 /* screenshot_from_desktop.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C623E5D1DA36A32007825D2 /* screenshot_from_desktop.png */; };
 		0CCF554C1DA08D1200A6781A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCF554B1DA08D1200A6781A /* AppDelegate.swift */; };
 		0CCF554E1DA08D1200A6781A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCF554D1DA08D1200A6781A /* ViewController.swift */; };
 		0CCF55511DA08D1200A6781A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CCF554F1DA08D1200A6781A /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0C623E5D1DA36A32007825D2 /* screenshot_from_desktop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_from_desktop.png; sourceTree = "<group>"; };
 		0CCF55481DA08D1200A6781A /* Hello-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CCF554B1DA08D1200A6781A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0CCF554D1DA08D1200A6781A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		0C623E5C1DA367C5007825D2 /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				0C623E5D1DA36A32007825D2 /* screenshot_from_desktop.png */,
 			);
 			name = screenshots;
 			path = ../screenshots;
@@ -245,6 +248,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0CCF55561DA08D1200A6781A /* LaunchScreen.storyboard in Resources */,
+				0C623E5E1DA36A32007825D2 /* screenshot_from_desktop.png in Resources */,
 				0CCF55531DA08D1200A6781A /* Assets.xcassets in Resources */,
 				0CCF55511DA08D1200A6781A /* Main.storyboard in Resources */,
 			);
