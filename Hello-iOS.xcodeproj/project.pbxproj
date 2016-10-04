@@ -49,7 +49,10 @@
 		0CCF556B1DA08D1200A6781A /* Hello_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_iOSUITests.swift; sourceTree = "<group>"; };
 		0CCF556D1DA08D1200A6781A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0CF61C801DA378710009042B /* Screen Shot 2016-10-03 at 9.39.51 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-10-03 at 9.39.51 PM.png"; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		0CF61C821DA37B9D0009042B /* hello app.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "hello app.mp4"; sourceTree = "<group>"; };
+=======
+>>>>>>> 5afcf5a6066d48f2bfef2829122701738cb1b64b
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,7 +135,6 @@
 		0CF61C7F1DA378140009042B /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				0CF61C821DA37B9D0009042B /* hello app.mp4 */,
 				0CF61C801DA378710009042B /* Screen Shot 2016-10-03 at 9.39.51 PM.png */,
 			);
 			path = screenshots;
