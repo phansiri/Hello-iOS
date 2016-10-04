@@ -14,6 +14,7 @@
 		0CCF55561DA08D1200A6781A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CCF55541DA08D1200A6781A /* LaunchScreen.storyboard */; };
 		0CCF55611DA08D1200A6781A /* Hello_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCF55601DA08D1200A6781A /* Hello_iOSTests.swift */; };
 		0CCF556C1DA08D1200A6781A /* Hello_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCF556B1DA08D1200A6781A /* Hello_iOSUITests.swift */; };
+		0CF61C811DA378710009042B /* Screen Shot 2016-10-03 at 9.39.51 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CF61C801DA378710009042B /* Screen Shot 2016-10-03 at 9.39.51 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,8 @@
 		0CCF55671DA08D1200A6781A /* Hello-iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello-iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CCF556B1DA08D1200A6781A /* Hello_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_iOSUITests.swift; sourceTree = "<group>"; };
 		0CCF556D1DA08D1200A6781A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0CF61C801DA378710009042B /* Screen Shot 2016-10-03 at 9.39.51 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-10-03 at 9.39.51 PM.png"; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				0CCF554A1DA08D1200A6781A /* Hello-iOS */,
+				0CF61C7F1DA378140009042B /* screenshots */,
 				0CCF555F1DA08D1200A6781A /* Hello-iOSTests */,
 				0CCF556A1DA08D1200A6781A /* Hello-iOSUITests */,
 				0CCF55491DA08D1200A6781A /* Products */,
@@ -123,6 +127,14 @@
 				0CCF556D1DA08D1200A6781A /* Info.plist */,
 			);
 			path = "Hello-iOSUITests";
+			sourceTree = "<group>";
+		};
+		0CF61C7F1DA378140009042B /* screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				0CF61C801DA378710009042B /* Screen Shot 2016-10-03 at 9.39.51 PM.png */,
+			);
+			path = screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,6 +248,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0CCF55561DA08D1200A6781A /* LaunchScreen.storyboard in Resources */,
+				0CF61C811DA378710009042B /* Screen Shot 2016-10-03 at 9.39.51 PM.png in Resources */,
 				0CCF55531DA08D1200A6781A /* Assets.xcassets in Resources */,
 				0CCF55511DA08D1200A6781A /* Main.storyboard in Resources */,
 			);
