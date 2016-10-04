@@ -74,10 +74,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0C623E5C1DA367C5007825D2 /* screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = screenshots;
+			path = ../screenshots;
+			sourceTree = "<group>";
+		};
 		0CCF553F1DA08D1100A6781A = {
 			isa = PBXGroup;
 			children = (
 				0CCF554A1DA08D1200A6781A /* Hello-iOS */,
+				0C623E5C1DA367C5007825D2 /* screenshots */,
 				0CCF555F1DA08D1200A6781A /* Hello-iOSTests */,
 				0CCF556A1DA08D1200A6781A /* Hello-iOSUITests */,
 				0CCF55491DA08D1200A6781A /* Products */,
